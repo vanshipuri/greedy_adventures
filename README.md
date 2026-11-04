@@ -4,10 +4,6 @@ A single-page Next.js + TypeScript redesign of the public **Sea View Skydiving â
 
 ## Links
 
-- **Arena live preview:** https://3000-ivn7x2mgygb5wnv3attwt.e2b.app
-- **Knowledge view:** https://3000-ivn7x2mgygb5wnv3attwt.e2b.app/knowledge
-- **Source branch:** https://github.com/vanshipuri/greedy_adventures/tree/arena/e176883e-greedy-adventures
-- **Review PR:** https://github.com/vanshipuri/greedy_adventures/pull/1
 - **Repository:** https://github.com/vanshipuri/greedy_adventures
 - **Vercel:** no Vercel account is connected to this sandbox, so no Vercel URL was created. Import the public repository in Vercel with the default Next.js settings; add `AI_API_KEY` only if a live model is wanted. The Arena preview above is the working demo.
 
