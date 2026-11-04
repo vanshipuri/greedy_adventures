@@ -5,7 +5,6 @@ A single-page Next.js + TypeScript redesign of the public **Sea View Skydiving �
 ## Links
 
 - **Repository:** https://github.com/vanshipuri/greedy_adventures
-- **Vercel:** no Vercel account is connected to this sandbox, so no Vercel URL was created. Import the public repository in Vercel with the default Next.js settings; add `AI_API_KEY` only if a live model is wanted. The Arena preview above is the working demo.
 
 > No model access was purchased and no API key is included. Without a key the app runs in **clearly labelled mock mode**, while the full validation → retrieval → media selection → answer guard pipeline still runs. If a reviewer needs real model access, please provide it before any spend.
 
